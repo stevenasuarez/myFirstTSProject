@@ -3,7 +3,7 @@ var demo;
     var helloWorld = function (name) {
         console.log('Hello ' + (name || 'unknown person'));
     };
-    var name = 'Steven';
+    var name = 'Andrés';
     /*helloWorld(name);
     helloWorld();*/
     var squareIt;

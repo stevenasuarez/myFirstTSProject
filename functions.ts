@@ -4,7 +4,7 @@ module demo {
         console.log('Hello ' + (name || 'unknown person'));
     }
 
-    var name:string = 'Steven';
+    var name:string = 'Andrés';
     /*helloWorld(name);
     helloWorld();*/
 
@@ -22,4 +22,5 @@ module demo {
     }
     console.log(squareIt(rectA));
     console.log(squareIt(rectB));
+
 }
